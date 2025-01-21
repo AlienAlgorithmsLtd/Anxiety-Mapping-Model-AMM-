@@ -1,5 +1,5 @@
 Anxiety Mapping Model © 2024 by Alien Algorithms Limited™ is licensed under Creative Commons Attribution-ShareAlike 4.0 International
-Anxiety Mapping Model (AMM) 
+Anxiety Mapping Model (AMM) To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
 The Anxiety Mapping Model (AMM) is a tool to empower individuals to better understand their anxiety through structured self-reflection. By breaking anxiety into manageable steps, AMM encourages users to track symptoms, recognize patterns, and connect them to potential triggers, all while providing actionable strategies for improvement.
 
