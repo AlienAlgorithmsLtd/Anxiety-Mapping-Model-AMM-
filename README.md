@@ -1,55 +1,96 @@
 🧭 Anxiety Mapping Model (AMM)
-© 2024 Alien Algorithms Limited™
+
+© 2024–2025 Alien Algorithms Ltd®
 Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
-View License
 
-The Anxiety Mapping Model (AMM) is a diagnostic self-reflection framework developed by Alien Algorithms Ltd to help individuals decode, visualize, and manage their anxiety with clarity and autonomy.
+The Anxiety Mapping Model (AMM) is a structured self-help framework designed to help individuals map, understand, and navigate their anxiety through clear pattern observation. Instead of viewing anxiety as a vague emotional storm, AMM reveals it as a repeatable internal system made of signals, loops, triggers, and behavioural cycles that can be tracked and understood over time.
 
-Instead of treating anxiety as a singular experience or vague emotional state, AMM breaks it down into clear symptom groupings, trigger-response loops, and dominant frequency patterns — allowing users to identify which type of anxiety they are most likely experiencing, and how to respond accordingly.
+AMM is non-clinical, open-source, and fully self-directed, making it accessible to anyone seeking clarity in their internal world — whether independently or alongside therapy.
 
-AMM is non-clinical, open-source, and designed to be used by anyone — whether you're just beginning to understand your mental health or already in therapy and looking to deepen your insight.
+🌐 What AMM Is
 
-🔍 Core Features
-📊 Pattern Recognition:
-Map your anxiety across time to detect repeating emotional, cognitive, or physical symptoms.
+AMM treats anxiety as a patterned response system, not a personal flaw or diagnosis.
+Through daily reflection and weekly pattern review, users begin to see:
 
-🧠 Type Identification:
-Match dominant symptom clusters to key anxiety types (e.g., survival-based, performance, relational, or existential anxiety).
+how their anxiety behaves
 
-🛠 Strategy Builder:
-Once the type is known, AMM helps you build custom responses using targeted mental and physical techniques.
+when it intensifies
 
-💡 Trigger Insight:
-Connect symptoms to specific life triggers — be it environment, memory recall, sensory input, or social dynamics.
+which domains activate
 
-📎 Integration Ready:
-AMM can be used standalone or layered with PRM (PTSD Response Map) and DPM (Depression Pattern Model) for multi-dimensional self-mapping.
+which loops escalate symptoms
 
-🧩 Why AMM Is Different
-Unlike generic symptom checklists or rigid diagnostic tools, the AMM is built on the principle that awareness precedes control — and that anxiety is not a flaw, but a signal processor built for survival.
+which triggers are consistent
 
-AMM is pattern-based, non-pathologizing, and fully user-driven — helping users shift from being overwhelmed by their anxiety to learning its rhythm, and eventually, gaining leverage over it.
+and how patterns evolve over time
 
-🧠 Who Can Use AMM?
-Individuals navigating daily or chronic anxiety
+By turning anxiety into data, users shift from being inside the anxiety to observing it — a transition that brings clarity and reduces overwhelm.
 
-People in therapy looking to supplement their self-insight
+🔍 Core Elements
 
-Mental health advocates and educators
+AMM helps users identify:
 
-Neurodivergent users seeking structure over ambiguity
+Emotional, cognitive, physical, and behavioural domains
 
-Researchers interested in open-source mental modeling tools
+Baseline anxiety vs spikes vs anticipatory loops
 
-🌐 Licensing and Open Access
-This work is shared under the Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0). That means:
+Trigger pathways and environmental influences
 
-You may share, remix, and build upon the model freely
+Historical origin points tied to earlier experiences
 
-You must credit Alien Algorithms Ltd
+Recurring pattern structures (anticipatory, social-reactive, generalized worry, panic-driven)
 
-Any adaptations must remain equally open to the public
+Behavioural responses that reinforce anxiety cycles
 
-"Anxiety isn't chaos. It's a signal. Once you map the pattern, you change the outcome." — Alien Algorithms Ltd
+🧠 Why AMM Helps
 
-Legacy version WILL BE DELETED 1/1/2026
+Anxiety feels overwhelming when it feels unpredictable.
+AMM creates structure:
+
+You see what normally happens
+
+You recognize early warning signs
+
+You understand your loops
+
+You identify your baseline shifts
+
+You track what helps and what doesn’t
+
+You gain long-term clarity over patterns
+
+Clarity becomes control.
+
+🔁 Integration With the Depression Pattern Model (DPM)
+
+AMM pairs naturally with the Depression Pattern Model (DPM) to form a complete self-mapping suite.
+Where AMM reveals activation patterns, DPM reveals withdrawal and collapse patterns.
+
+🔗 Explore the DPM here:
+https://github.com/AlienAlgorithmsLtd/Depression-Pattern-Model-DPM-
+
+Together, they provide a complete picture of your mental-state rhythm.
+
+✍️ Who AMM Is For
+
+Individuals managing anxiety
+
+Anyone seeking structured self-understanding
+
+People in therapy wanting clearer insight
+
+Neurodivergent individuals needing predictable systems
+
+Educators and advocates
+
+Non-clinical researchers
+
+🧾 License
+
+Released under CC BY-SA 4.0.
+You may share, adapt, and build upon it with attribution and equal openness.
+
+“Anxiety isn’t chaos — it’s a system.
+Once you map the pattern, you change the outcome.” — Alien Algorithms Ltd®
+
+Legacy version WILL BE DELETED: 1/1/2026
