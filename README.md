@@ -51,3 +51,5 @@ You must credit Alien Algorithms Ltd
 Any adaptations must remain equally open to the public
 
 "Anxiety isn't chaos. It's a signal. Once you map the pattern, you change the outcome." — Alien Algorithms Ltd
+
+Legacy version WILL BE DELETED 1/1/2026
