@@ -83,4 +83,4 @@ Licensed under CC BY-SA 4.0
 
 "Anxiety isn’t chaos — it’s a pattern. When you see the frequency, you see the truth."
 
-Legacy version WILL BE DELETED: 1/1/2026
+Legacy versions WILL BE DELETED!
